@@ -1,2 +1,3 @@
-To get started simply run the setup script:
+##### To get started simply run the setup script:
+
 `./setup.sh`
